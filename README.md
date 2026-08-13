@@ -1,5 +1,7 @@
 # Cargo Cult Multi-Adv
 
+Cargo Cult Multi-Adv emulates roles for the Cult of Cthulhu DEF CON 34 indie badge, letting badge owners continue and complete their badge experience after DEF CON 34 on its C3-validated target; other compatible multi-advertising ESP32 targets are untested.
+
 Cargo Cult Multi-Adv is a C3-focused Cargo Cult role emulator that supports
 concurrent BLE advertisements. It is intended for boards using the
 `esp32-c3-devkitm-1` PlatformIO environment.
